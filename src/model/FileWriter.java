@@ -24,7 +24,7 @@ public class FileWriter {
 		public void Write(String data) {
 			
 			try {
-				PrintWriter pw = new PrintWriter(new File(fileName));
+				PrintWriter pw = new PrintWriter(fileName);
 				pw.write(data);
 		        pw.close();
 			} 

@@ -1,0 +1,7 @@
+Avec 100 exemples et un pas de 0.01, il faut 4 itérations
+Avec 100 exemples et un pas de 0.1, il faut 21 itérations
+Avec 100 exemples et un pas de 0.2, il faut 2 itérations
+Avec 1000 exemples et un pas de 0.01, il faut 169 itérations
+Avec 1000 exemples et un pas de 0.1, il faut 255 itérations
+Avec 1000 exemples et un pas de 0.2, il faut 6 itérations
+Avec 1000 exemples et un pas de 0.5, il faut 276 itérations
